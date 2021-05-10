@@ -9,6 +9,9 @@
 <a href="https://github.com/tiste">
   <img align="left" alt="Baptiste Lecocq's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
+<a href="https://github.com/tiste">
+  <img align="left" alt="Baptiste Lecocq's Views" src="https://komarev.com/ghpvc/?username=tiste" />
+</a>
 
 <img align="right" alt="GIF" src="https://github-readme-stats.vercel.app/api?username=tiste&show_icons=true&count_private=true" />
 

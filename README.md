@@ -25,4 +25,6 @@ My experience in the web in very diverse missions, convinced me that the fluidit
 
 I mainly master the languages and frameworks of the Javascript world. I am also involved in a number of methods related to agility and software craftsmanship to grow the teams I support.
 
-⭐️ From [@tiste](https://github.com/tiste)
+---
+
+⭐️ Feel free to [contact me](https://tiste.io/contact) if you want to work together.

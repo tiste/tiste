@@ -27,4 +27,14 @@ I mainly master the languages and frameworks of the Javascript world. I am also 
 
 ---
 
+### Products I'm building
+
+- 🎲 [Yahtzee](https://yahtzee.game)
+- 🏃 [Convertisseur temps course](https://tiste.io/projects/swunitch)
+- 🎸 [Setlist Live](https://setlist.live)
+- 🎮 [1 à 10](https://1a10.app)
+- 📨 [Javro](https://javro.github.io)
+
+---
+
 ⭐️ Feel free to [contact me](https://tiste.io/contact) if you want to work together.

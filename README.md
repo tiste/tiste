@@ -30,7 +30,7 @@ I mainly master the languages and frameworks of the Javascript world. I am also 
 ### Products I'm building
 
 - 🧩 [Pousse Pousse](https://poussepous.se)
-- 🎲 [Yahtzee](https://yahtzee.game)
+- 🎲 [Yahtzee](https://yahtzeeapp.com)
 - 🏃 [Convertisseur temps course](https://convertisseur-temps-course.tiste.io)
 - 🎸 [Setlist Live](https://setlist.live)
 - 🎮 [1 à 10](https://1a10.app)

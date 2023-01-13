@@ -31,7 +31,7 @@ I mainly master the languages and frameworks of the Javascript world. I am also 
 
 - 🧩 [Pousse Pousse](https://poussepous.se)
 - 🎲 [Yahtzee](https://yahtzeeapp.com)
-- 🏃 [Convertisseur temps course](https://convertisseur-temps-course.tiste.io)
+- 🏃 [Convertisseur temps course](https://convertisseurtempscourse.fr)
 - 🎸 [Setlist Live](https://setlist.live)
 - 🎮 [1 à 10](https://1a10.app)
 - 📨 [Javro](https://javro.github.io)

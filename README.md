@@ -29,7 +29,7 @@ I mainly master the languages and frameworks of the Javascript world. I am also 
 
 ### Products I'm building
 
-- ✨ [Valeur Sûre](https://valeursure.co)
+- ✨ [Valeur Sûre](https://valeursure.com)
 - 🧩 [Pousse Pousse](https://poussepousse.tiste.io)
 - 🎲 [Yahtzee](https://yahtzeeapp.com)
 - 🏃 [Convertisseur temps course](https://convertisseurtempscourse.fr)

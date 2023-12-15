@@ -1,13 +1,13 @@
 ## Hi there :wave:
 
 <a href="https://twitter.com/tiste">
-  <img align="left" alt="Baptiste Lecocq's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Baptiste Lecocq's X" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/x.svg" />
 </a>
 <a href="https://www.linkedin.com/in/baptistelecocq/">
-  <img align="left" alt="Baptiste Lecocq's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Baptiste Lecocq's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/tiste">
-  <img align="left" alt="Baptiste Lecocq's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <img align="left" alt="Baptiste Lecocq's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/github.svg" />
 </a>
 <a href="https://github.com/tiste">
   <img align="left" alt="Baptiste Lecocq's Views" src="https://komarev.com/ghpvc/?username=tiste" />

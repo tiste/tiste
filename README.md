@@ -32,7 +32,7 @@ I mainly master the languages and frameworks of the Javascript world. I am also 
 - ✨ [Valeur Sûre](https://valeursure.com)
 - 🧩 [Pousse Pousse](https://poussepousse.tiste.io)
 - 🎲 [Yahtzee](https://yahtzeeapp.com)
-- 🏃 [Convertisseur temps course](https://convertisseurtempscourse.fr)
+- 🏃 [Pacevisor](https://pacevisor.com)
 - 🎸 [Setlist Live](https://setlist.live)
 - 🎮 [1 à 10](https://1a10.app)
 - 📨 [Javro](https://javro.github.io)

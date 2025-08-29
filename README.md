@@ -31,7 +31,6 @@ I mainly master the languages and frameworks of the Javascript world. I am also 
 
 - 🏁 [Rally Call](https://rallycall.fr)
 - ✨ [Valeur Sûre](https://valeursure.com)
-- 🧩 [Pousse Pousse](https://poussepousse.tiste.io)
 - 🎲 [Yahtzee](https://yahtzeeapp.com)
 - 🏃 [Pacevisor](https://pacevisor.com)
 - 🎸 [Setlist Live](https://setlist.live)
